@@ -1,0 +1,189 @@
+*{
+    color: rgba(40, 40, 40, 1);
+    font-family: 'Montserrat', sans-serif;
+}
+/* start header */
+body{
+    width: 1280px;
+    margin: auto;
+}
+.header{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.brand-name{
+    margin-left: 72px;
+    display: flex;
+}
+.info{
+    display: flex;
+    font-size: 14px;
+    text-align: center;
+    gap: 40px;
+    font-family: 'Montserrat', sans-serif;
+}
+.header-icons{
+    display: flex;
+    align-items: center;
+    margin-right: 72px;
+    gap: 25px;
+}
+/* end header */
+/* start section-1 */
+.section-1{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+}
+.text-photo{
+    display: flex;
+    gap: 120px;
+}
+.home{
+    font-size: 14px;
+    margin-bottom: 55px;
+}
+.text{
+    width: 216px;
+    height: 394px;
+    padding-top: 7px;
+    padding-left: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.one{
+    width: 216px;
+    height: 54px;
+}
+.text-1{
+    display: flex;
+}
+.word{
+    width: 142px;
+    height: 24px;
+}
+.word-1{
+    display: flex;
+    align-items: center;
+    width: 80px;
+    height: 24px;
+}
+.mark{
+    color: rgba(195, 178, 18, 1);
+}
+.add{
+    margin-left: 50px;
+    display: flex;
+}
+.add-1{
+    margin-left: 67px;
+    display: flex;
+}
+.line{
+    width: 160px;
+    height: 1.3px;
+    margin: 18px;
+    background: rgb(0, 0, 0);
+}
+.stor{
+    width: 140px;
+    height: 24px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 700px;
+    margin-bottom: 32px;
+    font-size: 16px;
+}
+.frame-2{
+    width: 840px;
+}
+.wrapper-1{
+    display: flex;
+    gap: 24px;
+    margin-bottom: 48px;
+}
+.card-1{
+    width: 264px;
+    height: 354px;
+    font-size: 16px;
+    
+}
+.title{
+    display: flex;
+    justify-content: center;
+}
+.title-card{
+    width: 174px;
+    height: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.price{
+    width: 264px;
+    height: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.farme-22{
+    width: 100%;
+    height: 280px;
+    margin-top: 165px;
+    background-color: rgba(244, 244, 244, 1);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    justify-content: space-evenly;
+    display: flex;
+}
+
+.text-coll{
+    width: 262px;
+    height: 300px;
+    font-size: 16px;
+}
+.tea-1{
+    margin-top: 20px;
+    font-size: 14px;
+}
+.black{
+    margin-bottom: 10px;
+}
+.learn{
+    font-size: 16px;
+    width: 262px;
+    height: 126px;
+}
+.learn-2{
+    font-size: 14px;
+    margin-top: 20px;
+}
+.cst{
+    width: 180px;
+    height: 20px;
+    font-size:16px ;
+}
+.delivery{
+    margin-top: 20px;
+    font-size: 14px;
+}
+.contact-us-{
+    width: 280px;
+    height: 166px;
+    font-size: 16px;
+}
+.location,
+.mail,
+.phone{
+    margin-top: 20px;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+}
+/* end section-1 */
