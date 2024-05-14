@@ -1,0 +1,308 @@
+*{
+    color: rgba(40, 40, 40, 1);
+    font-family: 'Montserrat', sans-serif;
+}
+/* start section one */
+body{
+    width: 1280px;
+    margin: auto;
+}
+
+.header{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.brand-name{
+    margin-left: 72px;
+    display: flex;
+}
+.info{
+    display: flex;
+    font-size: 16px;
+    text-align: center;
+    gap: 40px;
+    font-family: 'Montserrat', sans-serif;
+}
+.header-icons{
+    display: flex;
+    align-items: center;
+    margin-right: 72px;
+    gap: 25px;
+}
+.photo-text{
+    display: flex;
+    gap: 120px;
+    margin-bottom: 100px;
+
+}
+.text-1{
+    align-self:flex-start ;
+    margin-top: 160px;
+    width: 385px;
+    height: 356px;
+
+}
+.h-one{
+    font-size: 30px;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 30px;
+}
+.small-text{
+    margin-top: 15px;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+}
+.box{
+    width: 263px;
+    height: 56px;
+    background-color: rgba(40, 40, 40, 1);
+    color: white;
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+/* end section one */
+.frame-8{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: rgba(244, 244, 244, 1);
+    width: 100%;
+    height: 200px;
+}
+.frame-5{
+
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+}
+.icon-1{
+    display: flex;
+    align-items: center;
+    gap: 9px;
+}
+
+
+
+.learn-more{
+    width: 281px;
+    height: 56px;
+    border-width: 3px;
+    border-color: rgba(40, 40, 40, 1);
+    border-style: solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box-2{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+.our-collections{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 50px;
+    font-weight: 500;
+    margin-bottom: 100px;
+}
+.section-1,
+.section-2,
+.section-3{
+    display: flex;
+    gap: 25px;
+    justify-content: center;
+    margin-bottom: 55px;
+} 
+.one{
+    width: 360px;
+    height: 360px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    text-align: center;
+    font-size: 16px;
+}
+/* .one .text-one{
+
+    color: red;
+} */
+.last-blog{
+    width: 100%;
+    height: 500px;
+    background-color: rgba(244, 244, 244, 1);
+    padding-top: 30px;
+    /* padding-left: 76px;
+    padding-right: 76px; */
+    padding-bottom: 30px;
+}
+.cards{
+    display: flex;
+}
+.blog-posts{
+    font-size: 40px;
+    font-weight: 450;
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+}
+.white-gap{
+    display: flex;
+    gap: 15px;
+}
+.photo-1{
+    padding-left: 76px;
+    padding-right: 15px;
+    margin-top: 40px;
+}
+.card-1{
+    display: flex;
+    align-items: center;
+}
+.text-card-1{
+    width: 261px;
+    height: 360px;
+    display: flex;
+    margin-top: 35px;
+}
+.post-title{
+    font-size: 22px;
+}
+.Post-Description{
+    font-size: 16px;
+    margin-top: 30px;
+}
+.read-more{
+    width: 115px;
+    height: 40px;
+    margin-top: 55px;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-2{
+    display: flex;
+    align-items: center;
+}
+.photo-2{
+    padding-left: 50px;
+    padding-right: 15px;
+    margin-top: 40px;
+}
+.text-card-2{
+    width: 261px;
+    height: 360px;
+    display: flex;
+    margin-top: 35px;
+}
+.post-title-1{
+    font-size: 22px;
+}
+.Post-Description-1{
+    font-size: 16px;
+    margin-top: 30px;
+}
+.read-more-1{
+    width: 115px;
+    height: 40px;
+    margin-top: 55px;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.frame-18{
+    width: 90%;
+    margin-top: 100px;
+    height: 620px;
+    padding-left: 90px;
+    /* border: solid; */
+}
+.frame-17{
+    display: flex;
+}
+.FOR-WHOLESALERS{
+    width: 456px;
+    height: 290px;
+    margin-top: 230px;
+    font-size: 36px;
+}
+.offer{
+    font-size: 16px;
+    margin-top: 30px;
+}
+.Button{
+    width: 360px;
+    height: 56px;
+    font-size: 14px;
+    border: solid;
+    border-width: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+.Landing-Main-Image{
+    margin-top: -450px;
+}
+.farme-22{
+    width: 100%;
+    height: 280px;
+    background-color: rgba(244, 244, 244, 1);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    justify-content: space-evenly;
+    display: flex;
+}
+
+.text-coll{
+    width: 262px;
+    height: 300px;
+    font-size: 16px;
+}
+.tea-1{
+    margin-top: 20px;
+    font-size: 14px;
+}
+.black{
+    margin-bottom: 10px;
+}
+.learn{
+    font-size: 16px;
+    width: 262px;
+    height: 126px;
+}
+.learn-2{
+    font-size: 14px;
+    margin-top: 20px;
+}
+.cst{
+    width: 180px;
+    height: 20px;
+    font-size:16px ;
+}
+.delivery{
+    margin-top: 20px;
+    font-size: 14px;
+}
+.contact-us-{
+    width: 280px;
+    height: 166px;
+    font-size: 16px;
+}
+.location,
+.mail,
+.phone{
+    margin-top: 20px;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+}
