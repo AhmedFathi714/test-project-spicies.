@@ -1,0 +1,398 @@
+*{
+    color: rgba(40, 40, 40, 1);
+    font-family: 'Montserrat', sans-serif;
+}
+/* start header */
+body{
+    width: 1280px;
+    margin: auto;
+}
+.header{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.brand-name{
+    margin-left: 72px;
+    display: flex;
+}
+.info{
+    display: flex;
+    font-size: 14px;
+    text-align: center;
+    gap: 40px;
+    font-family: 'Montserrat', sans-serif;
+}
+.header-icons{
+    display: flex;
+    align-items: center;
+    margin-right: 72px;
+    gap: 25px;
+}
+/* end header */
+
+/* Start Section-1 */
+.fram-90{
+    display: flex;
+    justify-content: space-between;
+    width: 1127px;
+    height: 28px;
+    margin: auto;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.line {
+    width: 250px;
+    height: 0.3px;
+    margin: 10px;
+    margin-bottom: 8px;
+    background: rgb(148, 148, 148);
+}
+.myBag{
+    width: 123px;
+    height: 28px;
+    font-size: 22px;
+}
+.myBag-1{
+    width: 138px;
+    height: 28px;
+    font-size: 22px;
+    color:rgb(148, 148, 148);
+}
+.myBag-2{
+    width: 255px;
+    height: 28px;
+    font-size: 22px;
+    font-family: "Montserrat", sans-serif;
+    color:rgb(148, 148, 148);
+}
+/* end header */
+/* Start Section-2 */
+.fram-93{
+    display: flex;
+}
+.abd{
+    width: 1280px;
+    margin: auto;
+}
+.cards{
+    width: 453px;
+    height: 483px;
+    margin-left: 80px;
+}
+.card-1{
+    display: flex;
+    margin-bottom: 38px;
+}
+.pic{
+    margin-right: 25px;
+    width: 71px;
+    height: 71px;
+}
+.fram-85{
+    width: 356px;
+    height: 71px;
+}
+.fram-83{
+    width: 356px;
+    height: 34px;
+    display: flex;
+}
+.Ceylon{
+    width: 209px;
+    height: 34px;
+    font-size: 14px;
+}
+.frame-64{
+    display: flex;
+    font-size: 22px;
+    gap: 17px;
+    width: 96;
+    margin-left: 68px;
+    height: 32px;
+    font-weight: 450;
+}
+.fram-84{
+    margin-top: 17px;
+    width: 335px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+}
+.reomve{
+    width: 289px;
+    height: 24px;
+    font-weight: 500;
+}
+.price{
+    font-size: 16px;
+    font-weight: 500;
+}
+.line-1{
+    width: 416.02px;
+    height: 0.3px;
+    margin: 10px;
+    margin-bottom: 8px;
+    background: rgb(148, 148, 148);
+}
+.fram-89{
+    display: flex;
+    width: 448px;
+    height: 24px;
+    margin-top: 38px;
+    margin-bottom: 20px;
+}
+.fram-88{
+    display: flex;
+    width: 448px;
+    height: 24px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.price-1{
+    font-size: 22px;
+    font-weight: 500;
+}
+.subtotl-3{
+    font-size: 22px;
+    margin-right: 340px;
+    font-weight: 500;
+}
+.subtotl{
+    font-size: 16px;
+    margin-right: 318px;
+}
+.subtotl-1{
+    font-size: 16px;
+    margin-right: 344px;
+}
+.subtotl-2{
+    font-size: 16px;
+    margin-right: 349px;
+}
+.learn-more {
+    width: 314px;
+    height: 56px;
+    margin: auto;
+    border-width: 1.5px;
+    border-color: rgba(40, 40, 40, 1);
+    border-style: solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 550;
+}
+.zero{
+    height: 1100px;
+}
+.cards-2{
+    padding-top: 20px;
+    width: 501px;
+    height: 446px;
+    background-color: rgba(244, 244, 244, 1);
+    margin-left: 165px;
+    margin-bottom: 50px;
+}
+.gap{
+    padding-left: 20px;
+}
+.order{
+    font-size:large;
+    font-size: 22px;
+    margin-top: 32px;
+    width: 180px;
+    height: 28px;
+    margin-bottom: 38px;
+}
+.line-2{
+    width: 416.02px;
+    height: 0.3px;
+    margin: 10px;
+    margin-bottom: 8px;
+    background: rgb(148, 148, 148);
+}
+.time{
+    color:rgba(40, 40, 40, 0.7);
+    font-size: 16px;
+    margin-bottom: 26px;
+    margin-top: 37px;
+}
+.learn-more-1 {
+    width: 465px;
+    height: 56px;
+    /* margin: auto; */
+    color: white;
+    background-color: rgba(40, 40, 40, 1);
+    border-width: 1.5px;
+    font-size: 16px;
+    border-color: rgba(40, 40, 40, 1);
+    border-style: solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 500;
+}
+.cards-3{
+        width: 501px;
+        height: 184px;
+        background-color: rgba(244, 244, 244, 1);
+    margin-top: 125px;
+    }
+.payment{
+    padding-top: 44px;
+    padding-left: 22px;
+    font-size: larger;
+    font-size: 22px;
+}
+.frame-92{
+    margin-top: 35px;
+    display: flex;
+    width: 440px;
+    height: 32px;
+    padding-left: 22px;
+    justify-content: space-between;
+}
+.fram-94{
+    width: 501px;
+    height: 295px;
+    background-color: rgba(244, 244, 244, 1);
+    margin-top: 67px;
+}
+.ship{
+    display: flex;
+    flex-direction: column;
+}
+.retour{
+    width: 212px;
+    height: 28px;
+    font-size: 22px;
+    padding-top: 35px;
+    margin-left: 20px;
+    margin-bottom: 36px;
+
+}
+.fram-99{
+    width: 442px;
+    height: 186px;
+    padding-left: 30px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+}
+.fram-95{
+    display: flex;
+    margin-bottom: 30px;
+}
+.fram-1{
+    display: flex;
+    margin-bottom: 30px;
+}
+.more{
+    margin-right: 15px;
+}
+.day-1{
+    width: 399px;
+    height: 17px;
+}
+/* End Section-2 */
+
+/* Start Section-3 */
+.fram-1000{
+    /* width: 840px; */
+    height: 434px;
+    margin-top: 50px;
+}
+.you{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Prosto One', sans-serif;
+    font-size: 32px;
+    text-align: center;
+    /* margin-top: 50px; */
+    margin-bottom: 40px;
+}
+.wrapper-7{
+    display: flex;
+    gap: 30px;
+    margin-bottom: 48px;
+    justify-content: center;
+}
+.title{
+    display: flex;
+    justify-content: center;
+}
+.title-card{
+    width: 174px;
+    height: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.price-5{
+    width: 264px;
+    height: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+/* End Section-3 */
+
+/* Start Section-4  */
+.farme-22{
+    width: 1280px;
+    height: 280px;
+    margin-top: 70px;
+    background-color: rgba(244, 244, 244, 1);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    justify-content: space-evenly;
+    display: flex;
+}
+
+.text-coll{
+    width: 262px;
+    height: 300px;
+    font-size: 16px;
+}
+.tea-7{
+    margin-top: 20px;
+    font-size: 14px;
+}
+.black-1{
+    margin-bottom: 10px;
+}
+.learn{
+    font-size: 16px;
+    width: 262px;
+    height: 126px;
+}
+.learn-2{
+    font-size: 14px;
+    margin-top: 20px;
+}
+.cst{
+    width: 180px;
+    height: 20px;
+    font-size:16px ;
+}
+.delivery{
+    margin-top: 20px;
+    font-size: 14px;
+}
+.contact-us-{
+    width: 280px;
+    height: 166px;
+    font-size: 16px;
+}
+.location,
+.mail,
+.phone{
+    margin-top: 20px;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+}
+/* End Section -4 */
